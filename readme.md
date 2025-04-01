@@ -1,3 +1,11 @@
+
+This is a fork of [AutoSeg-SAM2](https://github.com/zrporz/AutoSeg-SAM2)， I’ll be putting in some effort to optimize it, improving the robustness and efficiency, with the goal of making it industry-ready.
+
+
+
+Original readme:
+---
+
 # README
 This is an automatic full segmentation  tool based on [Segment-Anything-2](https://github.com/facebookresearch/segment-anything-2) and [Segment-Anything-1](https://github.com/zrporz/segment-anything-1). Our tool performs automatic full segmentation of the video, enabling the tracking of each object and the detection of possible new objects.
 
