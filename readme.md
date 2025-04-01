@@ -1,9 +1,9 @@
 
-This is a fork of [AutoSeg-SAM2](https://github.com/zrporz/AutoSeg-SAM2)， I’ll be putting in some effort to optimize it, improving the robustness and efficiency, with the goal of making it industry-ready.
+[Note]: This is a fork of [AutoSeg-SAM2](https://github.com/zrporz/AutoSeg-SAM2)， I’ll be putting in some effort to optimize it, improving the robustness and efficiency, with the goal of making it industry-ready.
 
 
 
-Original readme:
+# Original readme:
 ---
 
 # README
