@@ -3,10 +3,9 @@
 
 
 
-# Original readme:
----
 
-# README
+
+# ⬇️ Original README ⬇️
 This is an automatic full segmentation  tool based on [Segment-Anything-2](https://github.com/facebookresearch/segment-anything-2) and [Segment-Anything-1](https://github.com/zrporz/segment-anything-1). Our tool performs automatic full segmentation of the video, enabling the tracking of each object and the detection of possible new objects.
 
 
